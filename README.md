@@ -1,7 +1,7 @@
 ````md
 Book Library Management System – REST API
 
-A REST API for managing a book library, built using **Spring Boot**, **H2 database**, and **JUnit + Mockito** for unit testing.
+A REST API for managing a book library, built using Spring Boot, H2 database, and JUnit + Mockito for unit testing.
 
 ---
 
@@ -44,7 +44,6 @@ A REST API for managing a book library, built using **Spring Boot**, **H2 databa
  4. Installation & Running
 
 ```bash
-cd "C:\Users\HomePC\Desktop\JAVA PROJECT FOR CV"
 mvn clean install
 mvn spring-boot:run
 ````
@@ -137,19 +136,3 @@ mvn clean test jacoco:report
 
 ---
 
-## 10. Future Enhancements
-
-* Pagination & sorting
-* User authentication
-* Borrowing/lending functionality
-* Integration with external book APIs
-* Book cover image upload
-* Full-text search
-
----
-
-## 11. License
-
-Created for educational and portfolio purposes.
-
----
